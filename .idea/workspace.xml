@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa0e6078-2c9c-4199-ac6e-81d01dca3fdc" name="Changes" comment="subo rama principal">
+    <list default="true" id="aa0e6078-2c9c-4199-ac6e-81d01dca3fdc" name="Changes" comment="subo clases creadas con uml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdministradorVehiculos/Ventana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +58,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693507761247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subo clases creadas con uml">
+      <created>1693798895668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693798895668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo rama principal" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo rama principal" />
+    <MESSAGE value="subo clases creadas con uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo clases creadas con uml" />
   </component>
 </project>

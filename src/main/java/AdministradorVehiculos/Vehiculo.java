@@ -20,4 +20,8 @@ public class Vehiculo {
 	public void setModelo(String modelo) {
 		this.modelo = modelo;
 	}
+	public Vehiculo(String marca, String modelo) {
+		this.marca = marca;
+		this.modelo = modelo;
+	}
 }
