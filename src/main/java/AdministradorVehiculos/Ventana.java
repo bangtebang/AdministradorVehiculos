@@ -40,14 +40,12 @@ public class Ventana {
 				vehiculos.add(moto);
 				System.out.println("Motocicleta creada.");
 				break;
-
 			case 3:
 				System.out.println("Lista de vehículos:");
 				for (Vehiculo vehiculo : vehiculos) {
 					System.out.println(vehiculo);
 				}
 				break;
-
 			case 4:
 				System.out.println("Saliendo del programa.");
 				scanner.close();
